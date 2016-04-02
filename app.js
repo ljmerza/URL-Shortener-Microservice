@@ -11,9 +11,9 @@ const herokuUrl = 'https://polar-hollows-17117.herokuapp.com/'
 const cn = {
     host: 'ec2-54-243-243-89.compute-1.amazonaws.com',
     port: 5432,
-    database: 'd4sntamsa5bftt',
-    user: 'gddjfiyddmcsqz',
-    password: 'Q0Ubdwl_C6XbF3QVyQdUyvOX1C'
+    database: '',
+    user: '',
+    password: ''
 }
 let db = pgp(cn)
 
